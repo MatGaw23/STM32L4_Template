@@ -1,0 +1,22 @@
+[
+{
+  "directory": "D:/STAZ2022/templete_emb_l4/build/src",
+  "command": "C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-gcc.exe  -ID:/STAZ2022/templete_emb_l4/src/. -mthumb -mcpu=cortex-m4 -mlittle-endian -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb-interwork --specs=nano.specs --specs=nosys.specs  -fno-builtin -Wall -std=gnu99 -fdata-sections -ffunction-sections -g3 -gdwarf-2 -o CMakeFiles/My_library.dir/my_lib.c.obj -c D:/STAZ2022/templete_emb_l4/src/my_lib.c",
+  "file": "D:/STAZ2022/templete_emb_l4/src/my_lib.c"
+},
+{
+  "directory": "D:/STAZ2022/templete_emb_l4/build/app",
+  "command": "C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-gcc.exe -DSTM32L476xx -ID:/STAZ2022/templete_emb_l4/app/inc -ID:/STAZ2022/templete_emb_l4/app/inc/cmsis -ID:/STAZ2022/templete_emb_l4/app/inc/cmsis_device_l4 -ID:/STAZ2022/templete_emb_l4/src/. -mthumb -mcpu=cortex-m4 -mlittle-endian -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb-interwork --specs=nano.specs --specs=nosys.specs  -fno-builtin -Wall -std=gnu99 -fdata-sections -ffunction-sections -g3 -gdwarf-2 -O0 -o CMakeFiles/Staz2022_L4_Template.elf.dir/main.c.obj -c D:/STAZ2022/templete_emb_l4/app/main.c",
+  "file": "D:/STAZ2022/templete_emb_l4/app/main.c"
+},
+{
+  "directory": "D:/STAZ2022/templete_emb_l4/build/app",
+  "command": "C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-gcc.exe -DSTM32L476xx -ID:/STAZ2022/templete_emb_l4/app/inc -ID:/STAZ2022/templete_emb_l4/app/inc/cmsis -ID:/STAZ2022/templete_emb_l4/app/inc/cmsis_device_l4 -ID:/STAZ2022/templete_emb_l4/src/. -mthumb -mcpu=cortex-m4 -mlittle-endian -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb-interwork --specs=nano.specs --specs=nosys.specs  -g -ggdb3 -D__USES_CXX -O0 -o CMakeFiles/Staz2022_L4_Template.elf.dir/inc/startup/startup_stm32l476xx.s.obj -c D:/STAZ2022/templete_emb_l4/app/inc/startup/startup_stm32l476xx.s",
+  "file": "D:/STAZ2022/templete_emb_l4/app/inc/startup/startup_stm32l476xx.s"
+},
+{
+  "directory": "D:/STAZ2022/templete_emb_l4/build/app",
+  "command": "C:/GNU_Arm_Embedded_Toolchain/10_2021_10/bin/arm-none-eabi-gcc.exe -DSTM32L476xx -ID:/STAZ2022/templete_emb_l4/app/inc -ID:/STAZ2022/templete_emb_l4/app/inc/cmsis -ID:/STAZ2022/templete_emb_l4/app/inc/cmsis_device_l4 -ID:/STAZ2022/templete_emb_l4/src/. -mthumb -mcpu=cortex-m4 -mlittle-endian -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb-interwork --specs=nano.specs --specs=nosys.specs  -fno-builtin -Wall -std=gnu99 -fdata-sections -ffunction-sections -g3 -gdwarf-2 -O0 -o CMakeFiles/Staz2022_L4_Template.elf.dir/inc/system_stm32l4xx.c.obj -c D:/STAZ2022/templete_emb_l4/app/inc/system_stm32l4xx.c",
+  "file": "D:/STAZ2022/templete_emb_l4/app/inc/system_stm32l4xx.c"
+}
+]

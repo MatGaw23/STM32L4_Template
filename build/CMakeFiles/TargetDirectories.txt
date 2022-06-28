@@ -1,0 +1,13 @@
+D:/STAZ2022/templete_emb_l4/build/CMakeFiles/edit_cache.dir
+D:/STAZ2022/templete_emb_l4/build/CMakeFiles/rebuild_cache.dir
+D:/STAZ2022/templete_emb_l4/build/src/CMakeFiles/My_library.dir
+D:/STAZ2022/templete_emb_l4/build/src/CMakeFiles/edit_cache.dir
+D:/STAZ2022/templete_emb_l4/build/src/CMakeFiles/rebuild_cache.dir
+D:/STAZ2022/templete_emb_l4/build/app/CMakeFiles/Staz2022_L4_Template.elf.dir
+D:/STAZ2022/templete_emb_l4/build/app/CMakeFiles/Staz2022_L4_Template.elf-size.dir
+D:/STAZ2022/templete_emb_l4/build/app/CMakeFiles/Staz2022_L4_Template.lss.dir
+D:/STAZ2022/templete_emb_l4/build/app/CMakeFiles/Staz2022_L4_Template.hex.dir
+D:/STAZ2022/templete_emb_l4/build/app/CMakeFiles/Staz2022_L4_Template.bin.dir
+D:/STAZ2022/templete_emb_l4/build/app/CMakeFiles/Staz2022_L4_Template.dir
+D:/STAZ2022/templete_emb_l4/build/app/CMakeFiles/edit_cache.dir
+D:/STAZ2022/templete_emb_l4/build/app/CMakeFiles/rebuild_cache.dir
